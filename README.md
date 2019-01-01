@@ -10,7 +10,7 @@ For a number of years I published a blog on my experiments using the Inferno OS,
 My interests are now in other areas. I'm learning about quantum computation, epistemology, and knots. 
 
 ## Essays
-* Coming 2018
+* Coming 2018 (Welp! That didn't happen)
 
 ## Blogs
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)  (Old)
@@ -20,4 +20,7 @@ My interests are now in other areas. I'm learning about quantum computation, epi
 * [Acme SAC](https://github.com/caerwynj/inferno-lab)
 
 ## Social Media
-I'm on Twitter [@caerwy](https://twitter.com/caerwy?lang=en) and [GitHub](https://github.com/caerwynj).
+* Twitter [@caerwy](https://twitter.com/caerwy?lang=en)
+* Github [caerwynj](https://github.com/caerwynj).
+* Soundcloud [caerwyn-jones](https://soundcloud.com/caerwyn-jones)
+* Instagram [caerwy](https://www.instagram.com/caerwy)
