@@ -7,7 +7,7 @@ telephone billing, and technical publications.
 From 1997 to 2010 my personal interests were in operating systems, especially the philosophy of Unix, Plan 9 and Inferno OS.  
 For a number of years I published a blog on my experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). 
 
-My interests are now in other areas. I'm learning about quantum computation, epistemology, and knots. 
+My interests are now in other areas: computing, music, epistemology, aerospace. 
 
 ## Essays
 * Coming 2018 (Welp! That didn't happen)
