@@ -10,7 +10,7 @@ For a number of years I published a blog on my experiments using the Inferno OS,
 My interests are now in other areas: computing, music, epistemology, aerospace. 
 
 ## Essays
-* Coming 2018 (Welp! That didn't happen)
+* [Simulation of Mind Hypothesis](a1.html)
 
 ## Blogs
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)  (Old)
