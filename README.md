@@ -1,5 +1,5 @@
-This is the personal home page of Caerwyn Jones. I am a manager 
-at [United Technologies](http://utc.com) where I work on digital strategy for Pratt & Whitney.  
+This is the personal home page of Caerwyn Jones. I work 
+at [United Technologies](http://utc.com).   
 
 In the past, as a software engineer, I worked on applications for telephone switching, 
 telephone billing, and technical publications. 
@@ -11,6 +11,8 @@ My interests are now in other areas: computing, music, epistemology, aerospace.
 
 ## Essays
 * [Simulation of Mind Hypothesis](a1.html)
+* [Networks of AI](a2.html)
+* [Software Temples](http://ipn.caerwyn.com/2007/03/software-temples.html?m=1)
 
 ## Blogs
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)  (Old)
