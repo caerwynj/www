@@ -16,7 +16,7 @@ My interests at work are in digital strategy, aerospace, and recently in reinfor
 
 ## Repositories
 * [Inferno Lab](https://github.com/caerwynj/inferno-lab)
-* [Acme SAC](https://github.com/caerwynj/inferno-lab)
+* [Acme SAC](https://github.com/caerwynj/acme-sac)
 
 ## Social Media
 * Twitter [@caerwy](https://twitter.com/caerwy?lang=en)
