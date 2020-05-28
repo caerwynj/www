@@ -1,4 +1,4 @@
-Hi! I'm Caerwyn Jones. I have been making software since 1996. I work at [Raytheon Technologies](http://rtx.com).  I formerly worked at CSC, Lucent, and a few small companies in the Boston Metro area.
+Hi! I'm Caerwyn Jones. I have been making software since 1996. I work at [Raytheon Technologies](http://rtx.com).  I formerly worked at CSC, Lucent, and a few small software companies in the Boston Metro area.
 
 From 1997 to 2010 my personal interests were in operating systems, especially the philosophy of Unix, Plan 9 and Inferno OS.  
 For a number of years I published a blog on my experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). 
