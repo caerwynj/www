@@ -9,7 +9,7 @@ My interests at work are in digital strategy, aerospace, and recently in reinfor
 * [Simulation of Mind Hypothesis](a1.html)
 * [Networks of AI](a2.html)
 * [Artificial Creativity](a3.html)
-* [Software Temples](http://ipn.caerwyn.com/2007/03/software-temples.html?m=1)
+* [Software Temples](http://ipn.caerwyn.com/2007/03/software-temples.html)
 
 ## Blogs
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)  (Old)
