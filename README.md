@@ -1,9 +1,9 @@
-Hi, I'm Caerwyn Jones. I work at [United Technologies](http://utc.com).   
+Hi! I'm Caerwyn Jones. I work at [Raytheon Technologies](http://rtx.com).   
 
 From 1997 to 2010 my personal interests were in operating systems, especially the philosophy of Unix, Plan 9 and Inferno OS.  
 For a number of years I published a blog on my experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). 
 
-My interests are now in other areas: computing, music, epistemology, aerospace. 
+My interests at work are in digital strategy, aerospace, and recently in reinforcement learning. I build software and have been making software since 1996.
 
 ## Essays, Notes
 * [Simulation of Mind Hypothesis](a1.html)
@@ -24,3 +24,4 @@ My interests are now in other areas: computing, music, epistemology, aerospace.
 * Soundcloud [caerwyn-jones](https://soundcloud.com/caerwyn-jones)
 * Instagram [caerwy](https://www.instagram.com/caerwy)
 * Youtube [caerwyn](https://www.youtube.com/channel/UCxDlKJfCtic6ULAoWqqv4_g)
+* LinkedIn [caerwynj](https://www.linkedin.com/in/caerwynj)
