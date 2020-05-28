@@ -20,7 +20,7 @@ My interests at work are in digital strategy, aerospace, and recently in reinfor
 
 ## Social Media
 * Twitter [@caerwy](https://twitter.com/caerwy?lang=en)
-* Github [caerwynj](https://github.com/caerwynj).
+* Github [caerwynj](https://github.com/caerwynj)
 * Soundcloud [caerwyn-jones](https://soundcloud.com/caerwyn-jones)
 * Instagram [caerwy](https://www.instagram.com/caerwy)
 * Youtube [caerwyn](https://www.youtube.com/channel/UCxDlKJfCtic6ULAoWqqv4_g)
