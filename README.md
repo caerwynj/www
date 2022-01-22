@@ -1,7 +1,7 @@
 # caerwyn.com
 Making software since 1996. 
 
-From 1997 to 2010 caerwyn.com focused on operating systems, especially the philosophy of Unix, Plan 9 and Inferno OS, by hosting a blog of experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). 
+From 2004 to 2012 caerwyn.com focused on operating systems, especially the philosophy of Unix, Plan 9 and Inferno OS, by hosting a blog of experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). 
 
 ## Blog
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)  (Old)
