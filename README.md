@@ -1,9 +1,10 @@
 # caerwyn.com
 
-From 2004 caerwyn.com focused on operating systems from Bell Labs, especially the philosophy of Unix, Plan 9 and Inferno OS, by hosting a blog of experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). 
+From 2004 caerwyn.com focused on operating systems from Bell Labs, especially the philosophy of Unix, Plan 9 and Inferno OS, by hosting a blog of experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com).  Since 2022 I have started working on Inferno OS again, porting it to the Raspberry Pi Pico.  Check out the repositories below.
 
 ## Blog
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)
+* [Medium Essays](https://medium.com/@caerwynj) A few articles on AI.
 
 ## For Sale
 * [Development boards for sale](puter.md)
@@ -14,3 +15,6 @@ From 2004 caerwyn.com focused on operating systems from Bell Labs, especially th
 * [Docker Images](https://hub.docker.com/u/caerwyn). Docker images for Inferno and Acme-SAC.
 * [Inferno OS on Raspberry Pi Pico](https://github.com/caerwynj/inferno-os/tree/pico).  Inferno OS ported to the Raspberry Pi Pico using the GCC toolchain and PICO SDK.
 
+## Music
+* [Twitch TV](https://www.twitch.tv/caerwynj) I livestream songwriting on twitch. Follow for me notifications of when I go live.
+* [YouTube Shorts](https://www.youtube.com/@caerwy/shorts) Clips from my music twitch stream are posted to YouTube. Like and subscribe.
