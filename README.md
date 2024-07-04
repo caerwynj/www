@@ -1,4 +1,6 @@
-# caerwyn.com
+---
+title: caerwyn.com
+---
 
 From 2004 caerwyn.com focused on operating systems from Bell Labs, especially the philosophy of Unix, Plan 9 and Inferno OS, by hosting a blog of experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com).  Since 2022 I have started working on Inferno OS again, porting it to the Raspberry Pi Pico.  Check out the repositories below.
 
