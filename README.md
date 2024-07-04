@@ -4,7 +4,8 @@ From 2004 caerwyn.com focused on operating systems from Bell Labs, especially th
 
 ## Blog
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)
-* [Medium Essays](https://medium.com/@caerwynj) A few articles on AI.
+* [Archimedes Programmer's Notebook](https://caerwynj.github.io/archimedes-lab/)
+* [Medium Essays](https://medium.com/@caerwynj) A few essays on AI.
 
 ## Repositories
 * [Inferno Lab](https://github.com/caerwynj/inferno-lab). Source code for all the prototype software made in the Inferno operating system over a number of years. Much of it is written in the Limbo programming language, a precursor to Go. It had excellent support for communicating sequential processes much like Go.
