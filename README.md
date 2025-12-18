@@ -1,5 +1,5 @@
 # caerwyn.com
-From 2004 caerwyn.com focused on operating systems from Bell Labs, especially the philosophy of Unix, Plan 9 and Inferno OS, by hosting a blog of experiments using the Inferno OS, called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com).  Since 2022 I have started working on Inferno OS again, porting it to the Raspberry Pi Pico.  Check out the repositories below.
+From 2004 I focused on operating systems from Bell Labs including Unix, Plan 9, and Inferno OS.  I hosted a blog about Inferno OS called the [Inferno Programmer's Notebook](http://ipn.caerwyn.com). I stopped working on Inferno OS around 2012. Most developers in the community moved over to the Go language around that time.  However, since 2022 I haved worked on Inferno OS again, porting it to the Raspberry Pi Pico, porting it to 64 bit platforms, and building inferno compute clusters.  Check out the repositories below. The Inferno OS is now considered "retro". I still enjoy it because I can self-host such a flexible system. I like the Limbo language. And many interesting opportunities still await such a small and elegant OS.
 
 ## Blog
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)
