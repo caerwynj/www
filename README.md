@@ -3,7 +3,7 @@ From 2004 caerwyn.com focused on operating systems from Bell Labs, especially th
 
 ## Blog
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)
-* [Archimedes Programmer's Notebook](https://caerwynj.github.io/archimedes-lab/)
+* [Archimedes Programmer's Notebook](https://caerwynj.github.io/archimedes-lab/). Presenting algorithms from Knuth's "The Art of Computer Programming" in Archimedes Assembly (ARM3).
 * [Medium Essays](https://medium.com/@caerwynj) A few essays on AI.
 * [Inferno64 cluster microblog](https://x.com/caerwy). I microblog my progress building an Inferno64 cluster using reclaimed hardware such as old smartphones.
 
