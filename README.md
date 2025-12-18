@@ -5,6 +5,7 @@ From 2004 caerwyn.com focused on operating systems from Bell Labs, especially th
 * [Inferno Programmer's Notebook](http://ipn.caerwyn.com)
 * [Archimedes Programmer's Notebook](https://caerwynj.github.io/archimedes-lab/)
 * [Medium Essays](https://medium.com/@caerwynj) A few essays on AI.
+* [Inferno64 cluster microblog](https://x.com/caerwy). I microblog my progress building an Inferno64 cluster using reclaimed hardware such as old smartphones.
 
 ## Repositories
 * [Inferno Lab](https://github.com/caerwynj/inferno-lab). Source code for all the prototype software made in the Inferno operating system over a number of years. Much of it is written in the Limbo programming language, a precursor to Go. It had excellent support for communicating sequential processes much like Go.
